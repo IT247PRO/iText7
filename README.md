@@ -1,4 +1,4 @@
-# iTextSharp7
+# iText7
 Extracting text from pdf using iText7 c# library
 
 
